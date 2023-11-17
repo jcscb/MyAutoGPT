@@ -172,3 +172,6 @@ pri*
 # ignore
 ig*
 .github_access_token
+arena/testAgent.json
+autogpts/autogpt/.env.template
+autogpts/forge/.env.example
